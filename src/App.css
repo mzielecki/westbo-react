@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif !important;
+}
+
+h2 {
+	font-size: 40px;
+}
+
+::selection {
+	background: rgb(0, 200, 255);
+}
+
+::-webkit-scrollbar {
+	width: 7px;
+}
+
+::-webkit-scrollbar-track {
+	background: #cacaca;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #000;
+}
+
+/*----------------------------------------------------------------*/
